@@ -110,7 +110,6 @@ pycodestyle==2.6.0
 pycrypto==2.6.1
 pycups==1.9.73
 Pygments==2.6.1
-PyGObject==3.36.0
 pyinotify==0.9.6
 PyJWT==1.7.1
 pylint==2.6.0
