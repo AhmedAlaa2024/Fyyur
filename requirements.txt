@@ -122,7 +122,6 @@ pyOpenSSL==19.0.0
 pyparsing==2.4.7
 PyQt5==5.14.1
 pytest==6.1.2
-python-apt==2.0.0+ubuntu0.20.4.1
 python-dateutil==2.7.3
 python-debian===0.1.36ubuntu1
 python3-openid==3.2.0
