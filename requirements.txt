@@ -148,7 +148,6 @@ threadpoolctl==2.1.0
 toml==0.10.1
 tornado==6.0.4
 traitlets==4.3.3
-ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.8
 usb-creator==0.3.7
